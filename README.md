@@ -21,14 +21,14 @@ Are employees who only worked for the institutes for a short period of time resi
 
 # Data Analysis of people who are dissatisfied
     - Dissatisfaction by service category via pivot table and bar chart visualisation
-    - Initial conclusion if service years lead to higher dissatisfaction
-    - Dissatisfaction by age via pivot table and bar chart visualisation
+    - Initial conclusion that longer working employees do not equate to higher resignations
+    - Further analysis for dissatisfaction by age via pivot table and bar chart visualisation
     - Heatmap analysis of age and service years with dissatifaction percentage
 ![age_years_dissatisfied](https://github.com/yanchooy/exitsurvey/assets/109457905/cec55caa-bf79-4c50-9dcb-5db893316921)
 
 # Conclusion
     - Conclusion of age and service years combined consideration
-    - Employees who are between 41 - 50 years old who are veterans are more likely to be dissatisfied with their jobs.
+    - Employees who are between 41 - 50 years old who are veterans (more than 11 service years) are more likely to be dissatisfied with their jobs.
     - Low staff morale followed by salary dissatifaction are the top reasons for dissatisfaction for this group.
 ![disagree_factors](https://github.com/yanchooy/exitsurvey/assets/109457905/ee3a5ab2-6d0b-4e00-bfdb-6f93276d4a39)
 
