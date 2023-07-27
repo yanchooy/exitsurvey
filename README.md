@@ -5,7 +5,7 @@ An demographic analysis of dissatisfaction found in exit surveys from Department
 [DETE](https://data.gov.au/dataset/ds-qld-fe96ff30-d157-4a81-851d-215f2a0fe26d/details?q=exit%20survey) dataset contains 822 rows and 56 columns while 
 TAFE dataset contains 702 rows and 72 columns.
 
-# Analysis Goal
+# Project Goal
 Are employees who only worked for the institutes for a short period of time resigning due to some kind of dissatisfaction? 
 What about employees who have been there longer?
 
