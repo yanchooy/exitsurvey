@@ -45,11 +45,12 @@ Below is a preview of a couple columns we'll work with from the `tafe_survey.csv
 - Dissatisfaction by service category via pivot table and bar chart visualisation
 - Initial conclusion that longer working employees do not equate to higher resignations
 - Further analysis for dissatisfaction by age via pivot table and bar chart visualisation
-- Heatmap analysis of age and service years with dissatifaction percentage
+- Stacked bar analysis of age and service years with dissatifaction percentage
   
-![age_years_dissatisfied](https://github.com/yanchooy/exitsurvey/assets/109457905/cec55caa-bf79-4c50-9dcb-5db893316921)
+![age_years_dissatisfied2](https://github.com/yanchooy/exitsurvey/assets/109457905/8bfbb594-d97a-4613-9523-a64a4a854d06)
 
-- Heatmap analysis of age and factors of dissatisfaction
+
+- Stacked bar analysis of age and factors of dissatisfaction
   
-![disagree_factors](https://github.com/yanchooy/exitsurvey/assets/109457905/ee3a5ab2-6d0b-4e00-bfdb-6f93276d4a39)
+![disagree_factors2](https://github.com/yanchooy/exitsurvey/assets/109457905/ba3db0f1-3d1f-4876-8ea3-8fb1d0821330)
 
