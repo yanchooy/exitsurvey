@@ -50,7 +50,7 @@ Below is a preview of a couple columns we'll work with from the `tafe_survey.csv
 ![age_years_dissatisfied2](https://github.com/yanchooy/exitsurvey/assets/109457905/8bfbb594-d97a-4613-9523-a64a4a854d06)
 
 
-- Stacked bar analysis of age and factors of dissatisfaction
+- Stacked bar analysis of 41-50 age group and factors of dissatisfaction
   
 ![disagree_factors2](https://github.com/yanchooy/exitsurvey/assets/109457905/ba3db0f1-3d1f-4876-8ea3-8fb1d0821330)
 
