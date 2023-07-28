@@ -1,5 +1,3 @@
-# Exitsurvey
-
 # Introduction
 An demographic analysis of dissatisfaction found in exit surveys from Department of Education, Training and Employment (DETE) and the Technical and Further Education (TAFE) institute in Queensland, Australia. The original TAFE exit survey data is no longer available. Some slight modifications were made to the original datasets to make them easier to work with, including changing the encoding to UTF-8 (the original ones are encoded using cp1252.)
 [DETE](https://data.gov.au/dataset/ds-qld-fe96ff30-d157-4a81-851d-215f2a0fe26d/details?q=exit%20survey) dataset contains 822 rows and 56 columns while 
