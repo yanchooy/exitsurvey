@@ -4,8 +4,8 @@ An demographic analysis of dissatisfaction found in exit surveys from Department
 TAFE dataset contains 702 rows and 72 columns.
 
 # Project Goal
-Are employees who only worked for the institutes for a short period of time resigning due to some kind of dissatisfaction? 
-What about employees who have been there longer?
+- To find out whether age or service period has any correlation to higher resignation.
+- Understanding dissatisfaction factors leading to resignation.
 
 Below is a preview of a couple columns we'll work with from the `dete_survey.csv`:
 
