@@ -24,7 +24,9 @@ Below is a preview of a couple columns we'll work with from the `tafe_survey.csv
   
 # Conclusion
 - Employees who are between 41 - 50 years old who are veterans (more than 11 service years) are more likely to be dissatisfied with their jobs.
-- Low staff morale followed by salary dissatifaction are the top reasons for dissatisfaction for this group.
+- Low staff morale is the top reason for dissatisfaction for both DETE (25%) and TAFE(45%)
+- This is followed by 33% dissatisfaction in TAFE was with their salary
+- While 15% dissatisfaction in DETE is due to lack of leadership management and career development prospects
     
 # Data inspection & Cleaning
 - Handling null values
@@ -52,5 +54,7 @@ Below is a preview of a couple columns we'll work with from the `tafe_survey.csv
 
 - Stacked bar analysis of 41-50 age group and factors of dissatisfaction
   
-![disagree_factors2](https://github.com/yanchooy/exitsurvey/assets/109457905/ba3db0f1-3d1f-4876-8ea3-8fb1d0821330)
+![disagree_factors_tafe](https://github.com/yanchooy/exitsurvey/assets/109457905/12dc6cee-78f5-4e57-9c09-a920bccd08ec)
 
+
+![disagree_factorsdete](https://github.com/yanchooy/exitsurvey/assets/109457905/e824e291-63de-4e73-a9e8-2e7b97adcb40)
